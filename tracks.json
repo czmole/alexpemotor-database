@@ -1,0 +1,52 @@
+{
+  "baseUrl": "https://raw.githubusercontent.com/alexbartisro/alexpemotor-database/main",
+
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Vascau → Varfurile",
+      "date": "2025-06-15",
+      "color": "#ff6b35",
+      "file": "routes/vascau-varfurile.kml",
+      "youtube": "",
+      "description": "Scenic road through the Apuseni mountains from Vascau down to Varfurile."
+    },
+    {
+      "id": 2,
+      "title": "Garda de Sus → Poiana Călineasa Belvedere",
+      "date": "2025-06-15",
+      "color": "#3ecfcf",
+      "file": "routes/garda-de-sus-poiana-calineasa-belvedere.kml",
+      "youtube": "",
+      "description": ""
+    },
+    {
+      "id": 3,
+      "title": "Cluj-Napoca → Muntele Rece → Stolna",
+      "date": "2025-06-15",
+      "color": "#a78bfa",
+      "file": "routes/cluj-napoca-muntele-rece-stolna.gpx",
+      "youtube": "",
+      "description": ""
+    }
+  ],
+
+  "placemarks": [
+    {
+      "id": 1,
+      "title": "Cheile Turzii viewpoint",
+      "lat": 46.5585,
+      "lng": 23.6847,
+      "type": "viewpoint",
+      "description": "Great pull-off with a view over the gorge."
+    },
+    {
+      "id": 2,
+      "title": "OMV Dej",
+      "lat": 47.1347,
+      "lng": 23.8753,
+      "type": "fuel",
+      "description": "Last fuel before the mountain stretch."
+    }
+  ]
+}

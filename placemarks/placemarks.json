@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Cheile Turzii viewpoint",
+    "lat": 46.5585,
+    "lng": 23.6847,
+    "type": "viewpoint",
+    "description": "Great pull-off with a view over the gorge."
+  },
+  {
+    "id": 2,
+    "title": "OMV Dej",
+    "lat": 47.1347,
+    "lng": 23.8753,
+    "type": "fuel",
+    "description": "Last fuel before the mountain stretch."
+  }
+]
