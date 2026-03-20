@@ -66,6 +66,14 @@ Found a great road and want to add it? Open a pull request.
 
 Please keep route files in `.gpx` format where possible — it includes elevation data which powers the chart on the website. `.kml` exports from Google My Maps are also welcome.
 
+**By submitting a pull request or contributing content in any other way, you agree to the contributor licence below.**
+
+---
+
+## Contributor licence
+
+By contributing any content to this repository (route files, placemarks, edits or otherwise), you grant **Alex Bartis**, **Alex Pe Motor** and **Comunitatea Alex Pe Motor** a perpetual, irrevocable, worldwide, royalty-free licence to use, reproduce, modify, distribute and display that content in any form and for any purpose, without restriction. You waive any right to claim payment, royalties or any other form of compensation for your contribution — now or at any point in the future.
+
 ---
 
 ## Using this data
