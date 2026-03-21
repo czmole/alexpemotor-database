@@ -1,7 +1,7 @@
 {
   "baseUrl": "https://raw.githubusercontent.com/alexbartisro/alexpemotor-database/main",
 
-  "_regions_ref": "Transilvania; Oltenia; Muntenia; Moldova; Bucovina; Dobrogea; Crisana; Banat; Maramures",
+  "_regions_ref": "Transilvania; Oltenia; Muntenia; Moldova; Bucovina; Dobrogea; Crisana; Banat; Maramures; Alba",
 
   "tracks": [
     {
