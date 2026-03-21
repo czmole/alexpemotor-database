@@ -1,7 +1,7 @@
 {
   "baseUrl": "https://raw.githubusercontent.com/alexbartisro/alexpemotor-database/main",
 
-  "_regions_ref": "Transilvania; Oltenia; Muntenia; Moldova; Bucovina; Dobrogea; Crisana; Banat; Maramures; Alba",
+  "_regions_ref": "Transilvania; Oltenia; Muntenia; Moldova; Bucovina; Dobrogea; Crisana; Banat; Maramures",
 
   "tracks": [
     {
@@ -57,7 +57,7 @@
       "title": "Marisel → Campeni",
       "date": "2025-06-15",
       "type": "offroad",
-      "file": "routes/Marisel - Campeni.gpx",
+      "file": "routes/marisel-campeni.gpx",
       "youtube": "",
       "description": "Offroad route part of ATC",
       "country": ["Romania"],
